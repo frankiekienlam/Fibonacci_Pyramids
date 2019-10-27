@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/csci-e-29/2019fa-pset-0-frankiekienlam.svg?branch=master)](https://travis-ci.com/csci-e-29/2019fa-pset-0-frankiekienlam)
+[![Build Status](https://travis-ci.com/frankiekienlam/Fibonacci_Pyramids.svg?branch=master)](https://travis-ci.com/frankiekienlam/Fibonacci_Pyramids)
 
 ## Objectives
 
